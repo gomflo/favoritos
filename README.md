@@ -7,3 +7,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [vercel.com](https://vercel.com/)
 - [nextjs.org](https://nextjs.org/)
 - [practicaltypography.com](https://practicaltypography.com/)
+- [tailwindcss.com](https://tailwindcss.com/)
