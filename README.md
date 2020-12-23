@@ -6,3 +6,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [supabase.io](https://supabase.io/)
 - [vercel.com](https://vercel.com/)
 - [nextjs.org](https://nextjs.org/)
+- [practicaltypography.com](https://practicaltypography.com/)
