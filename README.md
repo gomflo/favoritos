@@ -9,3 +9,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [n8n.io](https://n8n.io/)
 - [tailwindcss.com](https://tailwindcss.com/)
 - [practicaltypography.com](https://practicaltypography.com/)
+- [jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/) · El tipo de fuente que uso en vscode.
