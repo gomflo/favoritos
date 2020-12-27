@@ -1,12 +1,13 @@
 # favoritos
 Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo aquí para que no se me olvide 😂. Algunas son herramientas que utilizo en mi trabajo diario.
 
-- [stripe.com](https://stripe.com/es-mx)
-- [segment.com](https://segment.com/)
-- [supabase.io](https://supabase.io/)
-- [vercel.com](https://vercel.com/)
-- [nextjs.org](https://nextjs.org/)
-- [n8n.io](https://n8n.io/)
-- [tailwindcss.com](https://tailwindcss.com/)
-- [practicaltypography.com](https://practicaltypography.com/)
-- [jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/) · El tipo de fuente que uso en vscode.
+- [stripe.com](https://stripe.com/es-mx) · la pasarela de pago más popular
+- [segment.com](https://segment.com/) · 
+- [supabase.io](https://supabase.io/) · paas con base de datos y autenticación
+- [vercel.com](https://vercel.com/) · hosting y funciones serverless 
+- [nextjs.org](https://nextjs.org/) · popular framework para reactjs
+- [n8n.io](https://n8n.io/) · alternativa open source a ifttt
+- [tailwindcss.com](https://tailwindcss.com/) · utilerias para las hojas de estilo css
+- [practicaltypography.com](https://practicaltypography.com/) · interesante página de consejos sobre tipografía 
+- [jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/) · tipo de fuente que uso en vscode.
+- [github.com/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) · elegante editor de texto
