@@ -12,3 +12,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [jetbrains.com/lp/mono/](https://www.jetbrains.com/lp/mono/) · tipo de fuente que uso en vscode.
 - [github.com/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) · elegante editor de texto
 - [typesense.org](https://typesense.org/) · badges de product hunt y hacker news
+- [mixkit.co](https://mixkit.co/) · buena alternativa a unsplash.com
