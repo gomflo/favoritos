@@ -14,3 +14,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [typesense.org](https://typesense.org/) · badges de product hunt y hacker news
 - [mixkit.co](https://mixkit.co/) · buena alternativa a unsplash.com
 - [github.com/lukeed/clsx](https://github.com/lukeed/clsx) · alternativa a classnames
+- [github.com/zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) · copiar al portapapeles
