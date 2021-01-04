@@ -17,3 +17,4 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) · copiar al portapapeles
 - [ithub.com/atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) · componente react drag & drop 
 - [github.com/adazzle/react-data-grid](https://github.com/adazzle/react-data-grid) · react data grid
+- [github.com/fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) · react toast
