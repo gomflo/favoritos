@@ -21,6 +21,7 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [simpleicons.org](https://simpleicons.org/) · iconos svg de marcas populares
 - [thenounproject.com](https://thenounproject.com/) · iconos gratis
 
-## Bonitas Landing Pages
+### bonitas landing pages
 
 - [nolt.io](https://nolt.io/)
+- [linktr.ee](https://linktr.ee/)
