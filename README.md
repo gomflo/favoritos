@@ -1,5 +1,5 @@
 # favoritos
-Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo aquí para que no se me olvide 😂. Algunas son herramientas que utilizo en mi trabajo diario.
+páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo aquí para que no se me olvide 😂, algunas son herramientas que utilizo en mi trabajo diario.
 
 - [stripe.com](https://stripe.com/es-mx) · la pasarela de pago más popular
 - [segment.com](https://segment.com/) · 
@@ -21,6 +21,7 @@ Páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [simpleicons.org](https://simpleicons.org/) · iconos svg de marcas populares
 - [thenounproject.com](https://thenounproject.com/) · iconos gratis
 - [github.com/adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) · whatsapp web api sin instancia de explorador
+- [github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) · certificados ssl en localhost 😱
 
 ### bonitas landing pages
 
