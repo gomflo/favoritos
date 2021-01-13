@@ -6,6 +6,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [supabase.io](https://supabase.io/) · paas con base de datos y autenticación
 - [vercel.com](https://vercel.com/) · hosting y funciones serverless 
 - [nextjs.org](https://nextjs.org/) · popular framework para reactjs
+- [next-cookie](https://github.com/tokuda109/next-cookie) · next cookie
 - [n8n.io](https://n8n.io/) · alternativa open source a ifttt
 - [tailwindcss.com](https://tailwindcss.com/) · utilerias para las hojas de estilo css
 - [practicaltypography.com](https://practicaltypography.com/) · interesante página de consejos sobre tipografía 
