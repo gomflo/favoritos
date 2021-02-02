@@ -24,6 +24,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/adiwajshing/Baileys](https://github.com/adiwajshing/Baileys) · whatsapp web api sin instancia de explorador
 - [github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) · certificados ssl en localhost 😱
 - [https://moiva.io/](moiva.io) · utilidad para comparar npm packages
+- [github.com/omgovich/react-colorful](https://github.com/omgovich/react-colorful) · pequeña libreria de react para elegir color
 
 ### bonitas landing pages
 
