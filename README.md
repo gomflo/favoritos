@@ -31,3 +31,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 
 - [nolt.io](https://nolt.io/)
 - [linktr.ee](https://linktr.ee/)
+
+## searching for inspiration
+
+- [land-book.com/](https://land-book.com/)
