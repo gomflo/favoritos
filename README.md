@@ -27,6 +27,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/omgovich/react-colorful](https://github.com/omgovich/react-colorful) · pequeña libreria de react para elegir color
 - [illustrationkit.com/](https://illustrationkit.com/) · buena opcion a undraw
 - [svgrepo.com/](https://www.svgrepo.com/) · otra de iconos
+- [remixicon.com/](https://remixicon.com/) · iconos open source
 
 ### bonitas landing pages
 
