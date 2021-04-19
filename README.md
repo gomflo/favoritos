@@ -29,6 +29,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [svgrepo.com/](https://www.svgrepo.com/) · otra de iconos
 - [remixicon.com/](https://remixicon.com/) · iconos open source
 - [github.com/YilianSource/party-js](https://github.com/YilianSource/party-js) · confeti 🎉
+- [productshot.app/](https://productshot.app/) · make your screenshots as beautiful as your product
 
 ### bonitas landing pages
 
