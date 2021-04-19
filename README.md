@@ -28,6 +28,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [illustrationkit.com/](https://illustrationkit.com/) · buena opcion a undraw
 - [svgrepo.com/](https://www.svgrepo.com/) · otra de iconos
 - [remixicon.com/](https://remixicon.com/) · iconos open source
+- [github.com/YilianSource/party-js](https://github.com/YilianSource/party-js) · confeti 🎉
 
 ### bonitas landing pages
 
