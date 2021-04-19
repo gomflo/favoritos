@@ -30,6 +30,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [remixicon.com/](https://remixicon.com/) · iconos open source
 - [github.com/YilianSource/party-js](https://github.com/YilianSource/party-js) · confeti 🎉
 - [productshot.app/](https://productshot.app/) · make your screenshots as beautiful as your product
+- [reactflow.dev/](https://reactflow.dev/) · editor de nodos
 
 ### bonitas landing pages
 
