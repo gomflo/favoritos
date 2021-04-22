@@ -32,6 +32,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [productshot.app/](https://productshot.app/) · make your screenshots as beautiful as your product
 - [reactflow.dev/](https://reactflow.dev/) · editor de nodos
 - [microlink.io/screenshot](https://microlink.io/screenshot) · Easy peasy screenshots
+- [typeshare.co/](https://typeshare.co/) · Convertir escritos en imagen
 
 ### bonitas landing pages
 
