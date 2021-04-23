@@ -34,6 +34,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [microlink.io/screenshot](https://microlink.io/screenshot) · easy peasy screenshots
 - [typeshare.co/](https://typeshare.co/) · convertir escritos en imagen
 - [uppbeat.io/](https://uppbeat.io/) · musica gratis para creadores
+- [github.com/krisk/fuse](https://github.com/krisk/fuse) · buscador ligero (client side) para react
 
 ### bonitas landing pages
 
