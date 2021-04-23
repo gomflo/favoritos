@@ -31,8 +31,9 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/YilianSource/party-js](https://github.com/YilianSource/party-js) · confeti 🎉
 - [productshot.app/](https://productshot.app/) · make your screenshots as beautiful as your product
 - [reactflow.dev/](https://reactflow.dev/) · editor de nodos
-- [microlink.io/screenshot](https://microlink.io/screenshot) · Easy peasy screenshots
-- [typeshare.co/](https://typeshare.co/) · Convertir escritos en imagen
+- [microlink.io/screenshot](https://microlink.io/screenshot) · easy peasy screenshots
+- [typeshare.co/](https://typeshare.co/) · convertir escritos en imagen
+- [uppbeat.io/](https://uppbeat.io/) · musica gratis para creadores
 
 ### bonitas landing pages
 
