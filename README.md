@@ -38,6 +38,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [tiptap.dev/](https://www.tiptap.dev/) · the headless editor framework for web artisans
 - [iconduck.com/](https://iconduck.com/) · otra de iconos
 - [tailwind.ink/](https://tailwind.ink/) · generador de paleta de colores para tailwindcss
+- [emojifav.com/](https://emojifav.com/) · usar emojis con favicon
 
 ### bonitas landing pages
 
