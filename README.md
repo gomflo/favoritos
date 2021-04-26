@@ -36,6 +36,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [uppbeat.io/](https://uppbeat.io/) · musica gratis para creadores
 - [github.com/krisk/fuse](https://github.com/krisk/fuse) · buscador ligero (client side) para react
 - [tiptap.dev/](https://www.tiptap.dev/) · the headless editor framework for web artisans
+- [iconduck.com/](https://iconduck.com/) · otra de iconos
 
 ### bonitas landing pages
 
