@@ -40,6 +40,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [tailwind.ink/](https://tailwind.ink/) · generador de paleta de colores para tailwindcss
 - [emojifav.com/](https://emojifav.com/) · usar emojis con favicon
 - [github.com/algolia/autocomplete](https://github.com/algolia/autocomplete) · autocomplete by algolia
+- [designs.ai/](https://designs.ai/) · crear logos chidos con inteligencia artificial
 
 ### bonitas landing pages
 
