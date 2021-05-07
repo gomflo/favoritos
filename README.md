@@ -41,6 +41,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [emojifav.com/](https://emojifav.com/) · usar emojis con favicon
 - [github.com/algolia/autocomplete](https://github.com/algolia/autocomplete) · autocomplete by algolia
 - [designs.ai/](https://designs.ai/) · crear logos chidos con inteligencia artificial
+- [cleanmock.com/](https://cleanmock.com/) · versión gratis de mockups
 
 ### bonitas landing pages
 
