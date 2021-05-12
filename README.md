@@ -42,6 +42,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/algolia/autocomplete](https://github.com/algolia/autocomplete) · autocomplete by algolia
 - [designs.ai/](https://designs.ai/) · crear logos chidos con inteligencia artificial
 - [cleanmock.com/](https://cleanmock.com/) · versión gratis de mockups
+- [github.com/ericblade/quagga2](https://github.com/ericblade/quagga2) · lector código de barras y qr (?)
 
 ### bonitas landing pages
 
