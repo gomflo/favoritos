@@ -44,6 +44,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [cleanmock.com/](https://cleanmock.com/) · versión gratis de mockups
 - [github.com/ericblade/quagga2](https://github.com/ericblade/quagga2) · lector código de barras y qr (?)
 - [github.com/zxing-js/library](https://github.com/zxing-js/library) · creo que es la mejor libreria para leer códigos qr y de barras
+- [http://danross.co/flow/](http://danross.co/flow/) · buena fuente / tipografia para prototipar
 
 ### bonitas landing pages
 
