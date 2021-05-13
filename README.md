@@ -55,3 +55,4 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 ## searching for inspiration
 
 - [land-book.com/](https://land-book.com/)
+- [uidesigndaily.com/](https://www.uidesigndaily.com/) · diseños diarios
