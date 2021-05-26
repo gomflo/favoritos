@@ -46,6 +46,8 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/zxing-js/library](https://github.com/zxing-js/library) · creo que es la mejor libreria para leer códigos qr y de barras
 - [danross.co/flow/](http://danross.co/flow/) · buena fuente / tipografia para prototipar
 - [github.com/joshwcomeau/use-sound](https://github.com/joshwcomeau/use-sound) · componente react efectos de sonido
+- [github.com/vadimdemedes/create-ink-app](https://github.com/vadimdemedes/create-ink-app) · crear cli apps con react
+- [github.com/extend-chrome/create-react-crx](https://github.com/extend-chrome/create-react-crx) · crear chrome extensions con react
 
 ### bonitas landing pages
 
