@@ -51,6 +51,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [typewolf.com/](https://typewolf.com/) · tendencias de tipografias 
 - [looks.wtf/](https://looks.wtf/) · looks of disapproval wtf
 - [github.com/CharlesStover/use-clippy](https://github.com/CharlesStover/use-clippy) · Utileria para el clipboard
+- [packagephobia.com/](https://packagephobia.com/) · tamaño total de un npm package
 
 ### bonitas landing pages
 
