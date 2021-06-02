@@ -50,6 +50,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/extend-chrome/create-react-crx](https://github.com/extend-chrome/create-react-crx) · crear chrome extensions con react
 - [typewolf.com/](https://typewolf.com/) · tendencias de tipografias 
 - [looks.wtf/](https://looks.wtf/) · looks of disapproval wtf
+- [github.com/CharlesStover/use-clippy](https://github.com/CharlesStover/use-clippy) · Utileria para el clipboard
 
 ### bonitas landing pages
 
