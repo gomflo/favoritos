@@ -52,6 +52,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [looks.wtf/](https://looks.wtf/) · looks of disapproval wtf
 - [github.com/CharlesStover/use-clippy](https://github.com/CharlesStover/use-clippy) · Utileria para el clipboard
 - [packagephobia.com/](https://packagephobia.com/) · tamaño total de un npm package
+- [reactnewsletter.com/](https://reactnewsletter.com/) · React Newsletter
 
 ### bonitas landing pages
 
