@@ -53,6 +53,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/CharlesStover/use-clippy](https://github.com/CharlesStover/use-clippy) · Utileria para el clipboard
 - [packagephobia.com/](https://packagephobia.com/) · tamaño total de un npm package
 - [reactnewsletter.com/](https://reactnewsletter.com/) · React Newsletter
+- [github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) · guardar archivos en el cliente
 
 ### bonitas landing pages
 
