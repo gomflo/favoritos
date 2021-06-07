@@ -55,6 +55,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [reactnewsletter.com/](https://reactnewsletter.com/) · React Newsletter
 - [github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) · guardar archivos en el cliente
 - [larsenwork.com/easing-gradients/](https://larsenwork.com/easing-gradients/) · easing gradients
+- [github.com/vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) · react globe
 
 ### bonitas landing pages
 
