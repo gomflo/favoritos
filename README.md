@@ -54,6 +54,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [packagephobia.com/](https://packagephobia.com/) · tamaño total de un npm package
 - [reactnewsletter.com/](https://reactnewsletter.com/) · React Newsletter
 - [github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) · guardar archivos en el cliente
+- [larsenwork.com/easing-gradients/](https://larsenwork.com/easing-gradients/) · easing gradients
 
 ### bonitas landing pages
 
