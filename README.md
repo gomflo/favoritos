@@ -56,6 +56,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/eligrey/FileSaver.js](https://github.com/eligrey/FileSaver.js) · guardar archivos en el cliente
 - [larsenwork.com/easing-gradients/](https://larsenwork.com/easing-gradients/) · easing gradients
 - [github.com/vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) · react globe
+- [github.com/keycastr/keycastr](https://github.com/keycastr/keycastr) · keystroke visualizer
 
 ### bonitas landing pages
 
