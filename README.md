@@ -58,6 +58,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/vasturiano/globe.gl](https://github.com/vasturiano/globe.gl) · react globe
 - [github.com/keycastr/keycastr](https://github.com/keycastr/keycastr) · keystroke visualizer
 - [nihilore.com/](https://www.nihilore.com/) · música creative commons
+- [github.com/iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) · remueve paywalls de muchos sitios gringos
 
 ### bonitas landing pages
 
