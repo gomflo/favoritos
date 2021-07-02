@@ -61,6 +61,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [github.com/iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) · remueve paywalls de muchos sitios gringos
 - [recharts.org/en-US/](https://recharts.org/en-US/) · charts para react
 - [dndkit.com/](https://dndkit.com/) · react drag and drop
+- [pixelhunter.io/](https://pixelhunter.io/) · free AI image resizer for social media.
 
 ### bonitas landing pages
 
