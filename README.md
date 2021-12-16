@@ -62,6 +62,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [recharts.org/en-US/](https://recharts.org/en-US/) · charts para react
 - [dndkit.com/](https://dndkit.com/) · react drag and drop
 - [pixelhunter.io/](https://pixelhunter.io/) · free AI image resizer for social media.
+- [blobr.io/](https://www.blobr.io/) · API Portal Management
 
 ### bonitas landing pages
 
