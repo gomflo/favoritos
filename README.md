@@ -63,6 +63,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [dndkit.com/](https://dndkit.com/) · react drag and drop
 - [pixelhunter.io/](https://pixelhunter.io/) · free AI image resizer for social media.
 - [blobr.io/](https://www.blobr.io/) · API Portal Management
+- [toolhunt.dev/](https://www.toolhunt.dev/) · Quality devtools
 
 ### bonitas landing pages
 
