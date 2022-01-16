@@ -64,6 +64,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [pixelhunter.io/](https://pixelhunter.io/) · free AI image resizer for social media.
 - [blobr.io/](https://www.blobr.io/) · API Portal Management
 - [toolhunt.dev/](https://www.toolhunt.dev/) · Quality devtools
+- [mubert.com/](https://mubert.com/) · Soundtrack for your content made by AI
 
 ### bonitas landing pages
 
