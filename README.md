@@ -65,6 +65,7 @@ páginas de utilidad que voy encontrando que pueden ser de utilidad y las guardo
 - [blobr.io/](https://www.blobr.io/) · API Portal Management
 - [toolhunt.dev/](https://www.toolhunt.dev/) · Quality devtools
 - [mubert.com/](https://mubert.com/) · Soundtrack for your content made by AI
+- [logo.shapefactory.co/](https://logo.shapefactory.co/) · Clean, simple, hassle-free logo design.
 
 ### bonitas landing pages
 
